@@ -90,3 +90,9 @@ h1{
 .bold{
     font-weight: 1000;
 }
+
+.error{
+    text-align: center;
+    margin-top:40px;
+    font-family:'Outfit', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
