@@ -31,7 +31,7 @@ h1{
 
 .app:before{
     content:'';
-    background:url('./assets/sunset.jpg') no-repeat center center/cover;
+    background:url('./assets/sunset.jpg') no-repeat cover;
     position: absolute;
     width:100%;
     height:100%;
