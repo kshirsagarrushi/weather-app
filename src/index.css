@@ -27,8 +27,12 @@ h1{
     position:relative;
     background-color:rgba(0,0,0,0.4);
     color:#ffff;
+    overflow-y:hidden;
+    overflow-x:hidden;
 }
-
+.app::-webkit-scrollbar{
+    display:none;
+}
 .app:before{
     content:'';
     background:url('./assets/sunset.jpg') no-repeat cover;
